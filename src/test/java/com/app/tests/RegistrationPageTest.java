@@ -2,7 +2,7 @@ package com.app.tests;
 
 public class RegistrationPageTest {
 
-public void show(){
+public void show23456(){
 }
 
 }
